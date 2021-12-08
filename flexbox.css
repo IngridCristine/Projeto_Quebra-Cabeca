@@ -1,0 +1,38 @@
+main {
+	display: flex;
+	flex-direction: column;
+}
+
+.main-jogo {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
+
+.div-jogo {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.coluna-imagem {
+	display: flex;
+	flex-direction: column;
+}
+
+.introducao {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.opcoes {
+	display: flex;
+	flex-direction: column;
+}
+
+.opcoes-lista {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
